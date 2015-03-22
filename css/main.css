@@ -1,0 +1,40 @@
+body {
+  background-color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+
+.page {
+  width: 90%;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.script-text {
+  width: 100%;
+  padding-left: 40px;
+}
+
+.note-text {
+  width: 350px;
+  font-size: 0.75em;
+}
+
+.float-left {
+  float: left;
+}
